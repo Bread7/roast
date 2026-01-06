@@ -10,6 +10,8 @@ Varietal: JARC 74158
 
 Process: Natural Sun Dried
 
+Elevation (MASL): 1900-2000
+
 Green Profile: Clean, Sweet, Floral, Mandarin, Black Tea, Stone Fruit, Berries
 
 Pricing Transparency (SGD):
