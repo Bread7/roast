@@ -40,3 +40,7 @@ Cupping Profile:
 ## Roast #2
 
 ![sidama_2](./2/SidamaBensa_2.png)
+
+## Roast #3
+
+![sidama_3](./3/SidamaBensa_3.png)
