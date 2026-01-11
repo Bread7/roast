@@ -37,13 +37,13 @@ Taste Profile: Rancid and oily, good for car petrol
 
 ![sidama_1](./1/SidamaBensa_1.png)
 
-## Roast #2
+## Roast #2 - 7/1/2026
 
 Taste Profile: Toasty and ashy, like forest fire with some berries clinging onto life
 
 ![sidama_2](./2/SidamaBensa_2.png)
 
-## Roast #3
+## Roast #3 - 11/1/2026
 
 Taste Profile: Toasty and ashy, good enough to grind to dust as volcanic ash for panama's soil
 
