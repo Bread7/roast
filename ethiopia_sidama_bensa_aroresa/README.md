@@ -48,3 +48,15 @@ Taste Profile: Toasty and ashy, like forest fire with some berries clinging onto
 Taste Profile: Toasty and ashy, good enough to grind to dust as volcanic ash for panama's soil
 
 ![sidama_3](./3/SidamaBensa_3.png)
+
+## Roast #4 - 21/1/2026
+
+Taste Profile:
+
+![sidama_4](./4/SidamaBensa_4.png)
+
+## Roast #5 - 21/1/2026
+
+Taste Profile:
+
+![sidama_5](./5/SidamaBensa_5.png)
