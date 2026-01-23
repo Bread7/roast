@@ -4,6 +4,8 @@ Landing page for my current coffee roasting progression.
 
 I will try to update the graphs as timely as possible.
 
+Dubious Sourcing & Unexceptional Roasts Only.
+
 ## Software
 
 - [BeansConqueror](https://github.com/graphefruit/Beanconqueror)

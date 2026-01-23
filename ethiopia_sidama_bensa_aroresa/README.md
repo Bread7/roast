@@ -51,12 +51,12 @@ Taste Profile: Toasty and ashy, good enough to grind to dust as volcanic ash for
 
 ## Roast #4 - 21/1/2026
 
-Taste Profile:
+Taste Profile: Sweet apple juice, kinda muted
 
 ![sidama_4](./4/SidamaBensa_4.png)
 
 ## Roast #5 - 21/1/2026
 
-Taste Profile:
+Taste Profile: Sweet tropical fruit, a little more acid forward than #4 but still weak
 
 ![sidama_5](./5/SidamaBensa_5.png)
