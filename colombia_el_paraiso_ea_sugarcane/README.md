@@ -33,6 +33,7 @@ Importer: [Terroir Maximus](https://shop.m.taobao.com/shop/shop_index.htm?user_i
 ## Roast #1 24/1/2026
 
 Weight Loss: 11.8%
+
 Taste Profile:
 
 ![el_paraiso_decaf_1](./1/el_paraiso_decaf_1.png)

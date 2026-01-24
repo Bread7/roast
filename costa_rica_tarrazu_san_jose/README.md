@@ -18,6 +18,8 @@ Elevation (MASL): 1600-1900
 
 Green Profile: Honey, Melon, Pomegranate
 
+Moisture: 10.7%
+
 Pricing Transparency (SGD):
 
     - Green Price: $27.79/KG
@@ -31,6 +33,7 @@ Importer: [质能方程 Coffee Beans](https://shop571686704.m.taobao.com/?)
 ## Roast #1 24/1/2026
 
 Weight Loss: 10.8%
+
 Taste Profile:
 
 ![san_jose_1](./1/san_jose_1.png)

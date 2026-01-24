@@ -20,6 +20,8 @@ Grade: No.2
 
 Green Profile: Caramel, Chocolate, Malt Taste, Clean
 
+Moisture: 10.2%
+
 Pricing Transparency (SGD):
 
     - Green Price: $20.42/KG
@@ -33,6 +35,7 @@ Importer: [质能方程 Coffee Beans](https://shop571686704.m.taobao.com/?)
 ## Roast #1 24/1/2026
 
 Weight Loss: 10%
+
 Taste Profile:
 
 ![capim_branco_1](./1/capim_branco_1.png)
@@ -40,6 +43,7 @@ Taste Profile:
 ## Roast #1 24/1/2026
 
 Weight Loss: 12.2%
+
 Taste Profile:
 
 ![capim_branco_2](./2/capim_branco_2.png)

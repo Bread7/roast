@@ -31,6 +31,7 @@ Importer: [Borong Coffee](https://shop.m.taobao.com/shop/shop_index.htm?user_id=
 ## Roast #1 24/1/2026
 
 Weight Loss: 12.7%
+
 Taste Profile:
 
 ![morod_manor_1](./1/morod_manor_1.png)
