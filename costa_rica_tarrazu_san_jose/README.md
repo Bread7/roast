@@ -1,0 +1,36 @@
+# Costa Rica Tarrazu San Jose Jaguar Red Honey
+
+Origin: Costa Rica
+
+Region: Tarrazu
+
+Farm / Station: San Jose
+
+Producers: Smallholders
+
+Varietal: Caturra, Catuai
+
+Process: Red Honey
+
+Elevation (MASL): 1600-1900
+
+## Importer Information
+
+Green Profile: Honey, Melon, Pomegranate
+
+Pricing Transparency (SGD):
+
+    - Green Price: $27.79/KG
+    - 9% GST: $2.1
+    - Shipping: $3.99 (Sea)
+
+Importer: [质能方程 Coffee Beans](https://shop571686704.m.taobao.com/?)
+
+---
+
+## Roast #1 24/1/2026
+
+Weight Loss: 10.8%
+Taste Profile:
+
+![san_jose_1](./1/san_jose_1.png)
