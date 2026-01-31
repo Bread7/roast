@@ -1,10 +1,12 @@
-# Coffee Roasting
+# ~~Calm~~ Coffee Roasting
 
 Landing page for my current coffee roasting progression.
 
 I will try to update the graphs as timely as possible.
 
 Dubious Sourcing & Unexceptional Roasts Only.
+
+Powered by the [Sires](https://www.pokemon.com/us/pokedex/quagsire)
 
 ## Software
 
@@ -19,12 +21,12 @@ Dubious Sourcing & Unexceptional Roasts Only.
 - Mastech M6514
 - Random 350g bean cooler/radiator
 
-## Personal Guidelines
+## Personal Guidelines (If you like to believe in a clown)
 
-| Roast Level      | Weight Loss (WL%) |
-| ---------------- | ----------------- |
-| Ultra-light (UL) | <10%              |
-| Light            | 10 ~ 12.5%        |
-| Medium           | 12.5 ~ 15%        |
-| Dark             | >15%              |
-| Italian Dark     | >18%              |
+| Roast Level      | Weight Loss (WL%) | Rest Time (Let Them Hibernate) |
+| ---------------- | ----------------- | ------------------------------ |
+| Ultra-light (UL) | <10%              | 6 ~ 8 Weeks                    |
+| Light            | 10 ~ 12.5%        | 3 ~ 5 Weeks                    |
+| Medium           | 12.5 ~ 15%        | 2 Weeks                        |
+| Dark             | >15%              | 3 ~ 5 Days                     |
+| Italian Dark     | >18%              | 1 Day                          |

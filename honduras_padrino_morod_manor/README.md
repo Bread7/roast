@@ -32,6 +32,14 @@ Importer: [Borong Coffee](https://shop.m.taobao.com/shop/shop_index.htm?user_id=
 
 Weight Loss: 12.7%
 
-Taste Profile:
+Taste Profile: bourbon, vanilla
 
 ![morod_manor_1](./1/morod_manor_1.png)
+
+## Roast #2 31/1/2026
+
+Weight Loss: 12.2%
+
+Taste Profile: vanilla, caramel, red apple
+
+![morod_manor_2](./2/morod_manor_2.png)

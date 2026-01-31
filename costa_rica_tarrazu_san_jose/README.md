@@ -34,6 +34,6 @@ Importer: [质能方程 Coffee Beans](https://shop571686704.m.taobao.com/?)
 
 Weight Loss: 10.8%
 
-Taste Profile:
+Taste Profile: pear, apple but very muted and light
 
 ![san_jose_1](./1/san_jose_1.png)

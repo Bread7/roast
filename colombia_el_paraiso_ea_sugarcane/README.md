@@ -34,6 +34,6 @@ Importer: [Terroir Maximus](https://shop.m.taobao.com/shop/shop_index.htm?user_i
 
 Weight Loss: 11.8%
 
-Taste Profile:
+Taste Profile: tomato, sugarcane, roasted potato, slight acidity
 
 ![el_paraiso_decaf_1](./1/el_paraiso_decaf_1.png)
