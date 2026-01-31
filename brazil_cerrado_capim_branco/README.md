@@ -36,14 +36,22 @@ Importer: [质能方程 Coffee Beans](https://shop571686704.m.taobao.com/?)
 
 Weight Loss: 10%
 
-Taste Profile:
+Taste Profile: toasted nuts, chestnut, chocolate
 
 ![capim_branco_1](./1/capim_branco_1.png)
 
-## Roast #1 24/1/2026
+## Roast #2 24/1/2026
 
 Weight Loss: 12.2%
 
-Taste Profile:
+Taste Profile: roasted nuts, chocolate
 
 ![capim_branco_2](./2/capim_branco_2.png)
+
+## Roast #3 31/1/2026
+
+Weight Loss: 12.2%
+
+Taste Profile: chocolate fudge, lightly toasted nuts, mellow & clean but a little light and muted overall
+
+![capim_branco_3](./3/capim_branco_3.png)
