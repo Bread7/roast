@@ -37,3 +37,11 @@ Weight Loss: 10.8%
 Taste Profile: pear, apple but very muted and light
 
 ![san_jose_1](./1/san_jose_1.png)
+
+## Roast #2 9/2/2026
+
+Weight Loss: 10.7%
+
+Taste Profile:
+
+![san_jose_2](./2/san_jose_2.png)

@@ -37,3 +37,11 @@ Weight Loss: 11.8%
 Taste Profile: tomato, sugarcane, roasted potato, slight acidity
 
 ![el_paraiso_decaf_1](./1/el_paraiso_decaf_1.png)
+
+## Roast #2 9/2/2026
+
+Weight Loss: 11.9%
+
+Taste Profile:
+
+![el_paraiso_decaf_2](./2/el_paraiso_decaf_2.png)
