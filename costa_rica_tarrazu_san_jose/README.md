@@ -42,6 +42,6 @@ Taste Profile: pear, apple but very muted and light
 
 Weight Loss: 10.7%
 
-Taste Profile:
+Taste Profile: pleasant honey, melon, pear
 
 ![san_jose_2](./2/san_jose_2.png)

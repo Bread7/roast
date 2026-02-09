@@ -42,6 +42,6 @@ Taste Profile: tomato, sugarcane, roasted potato, slight acidity
 
 Weight Loss: 11.9%
 
-Taste Profile:
+Taste Profile: tropical fruit, mellow sweetness, pineapple
 
 ![el_paraiso_decaf_2](./2/el_paraiso_decaf_2.png)
