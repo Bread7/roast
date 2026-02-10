@@ -21,12 +21,16 @@ Powered by the [Sires](https://www.pokemon.com/us/pokedex/quagsire)
 - Mastech M6514
 - Random 350g bean cooler/radiator
 
+## Quality Controls
+
+Please see [quality control](./qc.md)
+
 ## Personal Guidelines (If you like to believe in a clown)
 
 | Roast Level      | Weight Loss (WL%) | Rest Time (Let Them Hibernate) |
 | ---------------- | ----------------- | ------------------------------ |
 | Ultra-light (UL) | <10%              | 6 ~ 8 Weeks                    |
 | Light            | 10 ~ 12.5%        | 3 ~ 5 Weeks                    |
-| Medium           | 12.5 ~ 15%        | 2 Weeks                        |
+| Medium           | 12.5 ~ 15%        | 2 ~ 3 Weeks                    |
 | Dark             | >15%              | 3 ~ 5 Days                     |
 | Italian Dark     | >18%              | 1 Day                          |
