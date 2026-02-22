@@ -22,6 +22,8 @@ Green Profile: Caramel, Chocolate, Malt Taste, Clean
 
 Moisture: 10.2%
 
+Density: 849g/L
+
 Pricing Transparency (SGD):
 
     - Green Price: $20.42/KG
@@ -55,3 +57,11 @@ Weight Loss: 12.2%
 Taste Profile: chocolate fudge, lightly toasted nuts, mellow & clean but a little light and muted overall
 
 ![capim_branco_3](./3/capim_branco_3.png)
+
+## Roast #4 22/2/2026
+
+Weight Loss: 11.5%
+
+Taste Profile: roasted almond, macadamia, dark chocolate
+
+![capim_branco_4](./4/capim_branco_4.png)

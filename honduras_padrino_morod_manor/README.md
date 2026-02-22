@@ -43,3 +43,11 @@ Weight Loss: 12.2%
 Taste Profile: vanilla, caramel, red apple
 
 ![morod_manor_2](./2/morod_manor_2.png)
+
+## Roast #3 22/2/2026
+
+Weight Loss: 12.6%
+
+Taste Profile: bourbon, vanilla, cream
+
+![morod_manor_3](./3/morod_manor_3.png)

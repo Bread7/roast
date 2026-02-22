@@ -20,6 +20,8 @@ Green Profile: Honey, Melon, Pomegranate
 
 Moisture: 10.7%
 
+Density: 878g/L
+
 Pricing Transparency (SGD):
 
     - Green Price: $27.79/KG
@@ -45,3 +47,11 @@ Weight Loss: 10.7%
 Taste Profile: pleasant honey, melon, pear
 
 ![san_jose_2](./2/san_jose_2.png)
+
+## Roast #3 22/2/2026
+
+Weight Loss: 11.4%
+
+Taste Profile: grapes, plum, pear
+
+![san_jose_3](./3/san_jose_3.png)
