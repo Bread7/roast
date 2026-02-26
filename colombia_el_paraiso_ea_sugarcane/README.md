@@ -45,3 +45,19 @@ Weight Loss: 11.9%
 Taste Profile: tropical fruit, mellow sweetness, pineapple
 
 ![el_paraiso_decaf_2](./2/el_paraiso_decaf_2.png)
+
+## Roast #3 25/2/2026
+
+Weight Loss: 11.3%
+
+QC2 Profile: apple, pear, watermelon
+
+![el_paraiso_decaf_3](./3/el_paraiso_decaf_3.png)
+
+## Roast #4 25/2/2026
+
+Weight Loss: 12.1%
+
+QC2 Profile: apple, watermelon, grapes
+
+![el_paraiso_decaf_4](./4/el_paraiso_decaf_4.png)

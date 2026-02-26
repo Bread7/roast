@@ -54,7 +54,7 @@ Taste Profile: roasted nuts, chocolate
 
 Weight Loss: 12.2%
 
-Taste Profile: chocolate fudge, lightly toasted nuts, mellow & clean but a little light and muted overall
+QC2 Profile: chocolate fudge, lightly toasted nuts, mellow & clean but a little light and muted overall
 
 ![capim_branco_3](./3/capim_branco_3.png)
 
@@ -62,6 +62,14 @@ Taste Profile: chocolate fudge, lightly toasted nuts, mellow & clean but a littl
 
 Weight Loss: 11.5%
 
-Taste Profile: roasted almond, macadamia, dark chocolate
+QC2 Profile: roasted almond, macadamia, dark chocolate
 
 ![capim_branco_4](./4/capim_branco_4.png)
+
+## Roast #5 25/2/2026
+
+Weight Loss: 12.5%
+
+QC2 Profile: toasted nuts, cacao nibs
+
+![capim_branco_5](./5/capim_branco_5.png)

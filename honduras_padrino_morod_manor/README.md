@@ -40,7 +40,7 @@ Taste Profile: bourbon, vanilla
 
 Weight Loss: 12.2%
 
-Taste Profile: vanilla, caramel, red apple
+QC2 Profile: vanilla, caramel, red apple
 
 ![morod_manor_2](./2/morod_manor_2.png)
 
@@ -48,6 +48,14 @@ Taste Profile: vanilla, caramel, red apple
 
 Weight Loss: 12.6%
 
-Taste Profile: bourbon, vanilla, cream
+QC2 Profile: bourbon, vanilla, cream
 
 ![morod_manor_3](./3/morod_manor_3.png)
+
+## Roast #4 25/2/2026
+
+Weight Loss: 13.0%
+
+QC2 Profile: milk, bourbon, vanilla
+
+![morod_manor_4](./4/morod_manor_4.png)

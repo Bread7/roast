@@ -44,7 +44,7 @@ Taste Profile: pear, apple but very muted and light
 
 Weight Loss: 10.7%
 
-Taste Profile: pleasant honey, melon, pear
+QC2 Profile: pleasant honey, melon, pear
 
 ![san_jose_2](./2/san_jose_2.png)
 
@@ -52,6 +52,14 @@ Taste Profile: pleasant honey, melon, pear
 
 Weight Loss: 11.4%
 
-Taste Profile: grapes, plum, pear
+QC2 Profile: grapes, plum, pear
 
 ![san_jose_3](./3/san_jose_3.png)
+
+## Roast #4 25/2/2026
+
+Weight Loss: 12.1%
+
+QC2 Profile: honey, melon, grapes
+
+![san_jose_4](./4/san_jose_4.png)
