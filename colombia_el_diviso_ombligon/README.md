@@ -35,3 +35,11 @@ Weight Loss: 13%
 QC2 Profile: yellow floral, pineapple, mandarine
 
 ![ombligon_1](./1/ombligon_1.png)
+
+## Roast #2 28/2/2026
+
+Weight Loss: 12.3%
+
+QC2 Profile: peach, roselle, honey, melon
+
+![ombligon_2](./2/ombligon.png)

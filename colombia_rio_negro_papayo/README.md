@@ -41,3 +41,11 @@ Weight Loss: 14%
 QC2 Profile: papaya, grapes, peach
 
 ![papayo_1](./1/papayo_1.png)
+
+## Roast #2 7/3/2026
+
+Weight Loss: 12.5%
+
+QC2 Profile: grape, lime, flower petals
+
+![papayo_2](./2/papayo.png)
