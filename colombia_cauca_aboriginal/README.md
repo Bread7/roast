@@ -41,3 +41,11 @@ Weight Loss: 12.5%
 QC2 Profile: strawberry, red apple, red wine
 
 ![aboriginal_1](./1/aboriginal_1.png)
+
+## Roast #2 14/3/2026
+
+Weight Loss: 10.7%
+
+Taste Profile: apple, strawberry, yoghurt, mulled wine
+
+![aboriginal](./2/aboriginal.png)
