@@ -32,7 +32,7 @@ Importer: [Green Bean Intertrade](https://greenbeanintertrade.co/)
 
 Weight Loss: 13%
 
-Taste Profile: apple, white grapes, brown sugar
+QC2 Profile: apple, white grapes, brown sugar
 
 ![black_honey](./1/black_honey.png)
 
@@ -40,7 +40,7 @@ Taste Profile: apple, white grapes, brown sugar
 
 Weight Loss: 11.7%
 
-Taste Profile: orange, brown sugar
+QC2 Profile: orange, brown sugar
 
 ![black_honey](./2/black_honey.png)
 
@@ -48,7 +48,7 @@ Taste Profile: orange, brown sugar
 
 Weight Loss: 12.2%
 
-Taste Profile: orange, brown sugar, apple skin
+QC2 Profile: orange, brown sugar, apple skin
 
 ![black_honey](./3/black_honey.png)
 
@@ -56,6 +56,6 @@ Taste Profile: orange, brown sugar, apple skin
 
 Weight Loss: 12.2%
 
-Taste Profile: orange, brown sugar
+QC2 Profile: orange, brown sugar
 
 ![black_honey](./4/black_honey.png)

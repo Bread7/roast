@@ -36,6 +36,6 @@ Importer: Valdy
 
 Weight Loss: 10.9%
 
-Taste Profile: longan, red wine, stewed apple
+QC2 Profile: longan, red wine, stewed apple
 
 ![java](./1/java.png)

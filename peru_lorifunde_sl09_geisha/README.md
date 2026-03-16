@@ -36,6 +36,6 @@ Importer: [品力非](https://shop286243613.m.taobao.com/)
 
 Weight Loss: 10.1%
 
-Taste Profile: white florals, mango, dragonfruit
+QC2 Profile: white florals, mango, dragonfruit
 
 ![sl09](./1/sl09.png)

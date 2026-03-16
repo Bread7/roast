@@ -38,6 +38,6 @@ Importer: [品力非](https://shop286243613.m.taobao.com/)
 
 Weight Loss: 11.3%
 
-Taste Profile: pomegranate, tangerine, candied lemon
+QC2 Profile: pomegranate, tangerine, candied lemon
 
 ![sl28](./1/sl28.png)

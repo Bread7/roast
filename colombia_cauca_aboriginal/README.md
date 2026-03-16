@@ -46,6 +46,6 @@ QC2 Profile: strawberry, red apple, red wine
 
 Weight Loss: 10.7%
 
-Taste Profile: apple, strawberry, yoghurt, mulled wine
+QC2 Profile: apple, strawberry, yoghurt, mulled wine
 
 ![aboriginal](./2/aboriginal.png)
