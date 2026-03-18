@@ -34,3 +34,18 @@ Please see [quality control](./qc.md)
 | Medium           | 12.5 ~ 15%        | 2 ~ 3 Weeks                    |
 | Dark             | >15%              | 3 ~ 5 Days                     |
 | Italian Dark     | >18%              | 1 Day                          |
+
+## Roasting Style(s)
+
+### Baseline / Benchmark / Generic
+
+#### Steps
+
+1. Plan out dry-end time, maillard time and relative development temperature increase
+2. Set loft power such that the beans fly slightly higher than the bell
+3. Temp gear to 100 for 45secs
+4. Increase temp gear till target time is reached at 140~150 deg celcius (dry-end phase)
+5. Slow loft power till beans touch only the base of the bell
+6. Hit target temp of 170-175 deg celcius 45secs - 1min before target maillard time (maillard phase)
+7. Continuously adjust loft to control the ROR before hitting 1C
+8. Once target temperature reached, stop the power and drop the beans

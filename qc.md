@@ -43,3 +43,13 @@ Status: Experimenting now
 - Dry aromas will be weak
 - Flavours are present and clear (testing if brew will be impacted)
 - Easier to allocate time (especially weekends)
+
+### #QC3 Cupping After Roast
+
+Same as QC2 but done earlier. Fines are left outside for _4_ hours before cupping
+
+Status: Experimenting now
+
+- Dry aromas will be slightly weak
+- Flavours are present and clear (testing if brew will be impacted)
+- Easier to allocate time (especially weekends)

@@ -41,3 +41,11 @@ Weight Loss: 11.3%
 QC2 Profile: pomegranate, tangerine, candied lemon
 
 ![sl28](./1/sl28.png)
+
+## Roast #2 18/3/2026
+
+Weight Loss: 10.5%
+
+QC2 Profile: peach, cherry tomatoes, pomegranate
+
+![sl28](./2/sl28.png)
