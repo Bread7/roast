@@ -52,10 +52,18 @@ QC2 Profile: orange, brown sugar, apple skin
 
 ![black_honey](./3/black_honey.png)
 
-## Roast #3 14/3/2026
+## Roast #4 14/3/2026
 
 Weight Loss: 12.2%
 
 QC2 Profile: orange, brown sugar
 
 ![black_honey](./4/black_honey.png)
+
+## Roast #5 26/3/2026
+
+Weight Loss: 11.8%
+
+QC2 Profile: -
+
+![black_honey](./5/black_honey.png)

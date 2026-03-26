@@ -39,6 +39,10 @@ Please see [quality control](./qc.md)
 
 ### Baseline / Benchmark / Generic
 
+#### Characteristics
+
+Fast roasting style that starts with high airflow and gradually decreases over time. This aims to promote brighter and acidity forward outcome. Good for modern light roast approach.
+
 #### Steps
 
 1. Plan out dry-end time, maillard time and relative development temperature increase
