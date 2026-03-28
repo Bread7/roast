@@ -41,3 +41,11 @@ Weight Loss: 11.8%
 QC2 Profile: tangerine, mango, candied citrus
 
 ![wushwush](./1/wushwush.png)
+
+## Roast #2 28/3/2026
+
+Weight Loss: 12.7%
+
+QC2 Profile: -
+
+![wushwush](./2/wushwush.png)

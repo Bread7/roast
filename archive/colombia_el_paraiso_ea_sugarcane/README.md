@@ -61,3 +61,11 @@ Weight Loss: 12.1%
 QC2 Profile: apple, watermelon, grapes
 
 ![el_paraiso_decaf_4](./4/el_paraiso_decaf_4.png)
+
+## Roast #5 28/3/2026
+
+Weight Loss: 9.4%
+
+QC2 Profile: apple, oolong, fruit punch
+
+![el_paraiso_decaf_5](./5/decaf.png)

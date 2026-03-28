@@ -49,3 +49,11 @@ Weight Loss: 10.5%
 QC2 Profile: peach, cherry tomatoes, pomegranate
 
 ![sl28](./2/sl28.png)
+
+## Roast #3 28/3/2026
+
+Weight Loss: 9.8%
+
+QC2 Profile: cranberries, apple, red tea
+
+![sl28](./3/sl28.png)

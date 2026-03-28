@@ -6,6 +6,10 @@ I will try to update the graphs as timely as possible.
 
 Dubious Sourcing & Unexceptional Roasts Only.
 
+Coffee not in [archive](./archive/) means its available and in stock.
+
+If the QR code does not redirect correctly, please check if its in [archive](./archive/).
+
 Powered by the [Sires](https://www.pokemon.com/us/pokedex/quagsire)
 
 ## Software
