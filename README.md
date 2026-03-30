@@ -4,7 +4,7 @@ Landing page for my current coffee roasting progression.
 
 I will try to update the graphs as timely as possible.
 
-Dubious Sourcing & Unexceptional Roasts Only.
+Dubious Sourcing & Unexceptional _Vibe_ Roasts Only.
 
 Coffee not in [archive](./archive/) means its available and in stock.
 

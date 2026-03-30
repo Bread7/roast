@@ -26,9 +26,9 @@ Crop Year: 2026
 
 Pricing Transparency (SGD):
 
-    - Green Price: $58.83/KG
-    - 9% GST: $9.44
-    - Shipping: $3.44 (Sea)
+    - Green Price: $50.62/KG
+    - 9% GST: $5.97
+    - Shipping: $3.42 (Sea)
 
 Importer: [品力非](https://shop286243613.m.taobao.com/)
 
