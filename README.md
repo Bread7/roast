@@ -12,6 +12,10 @@ If the QR code does not redirect correctly, please check if its in [archive](./a
 
 Powered by the [Sires](https://www.pokemon.com/us/pokedex/quagsire)
 
+## Coffee Not Available
+
+- Peru Lorifunde SL9
+
 ## Software
 
 - [BeansConqueror](https://github.com/graphefruit/Beanconqueror)

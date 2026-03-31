@@ -14,6 +14,8 @@ Process: Lactic Washed
 
 Elevation (MASL): 1650
 
+Stock: 600g
+
 ## Importer Information
 
 Green Profile: Red Grape, Papaya, Cantaloupe, Tropical Fruit, Jasmine 

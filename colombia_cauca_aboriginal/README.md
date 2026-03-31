@@ -14,6 +14,8 @@ Process: Natural
 
 Elevation (MASL): 1750-2000
 
+Stock: 600g
+
 ## Importer Information
 
 Green Profile: Cherry Pomegranate, Strawberry, Cream, Dried Grapes, Mulled Wine, Raspberries 

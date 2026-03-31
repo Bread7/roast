@@ -14,6 +14,8 @@ Process: 72 Hour Controlled Fermentation Washed
 
 Elevation (MASL): 2200
 
+Stock: 650g
+
 ## Importer Information
 
 Green Profile: Tangerine, Peach, Pear, White Grape

@@ -12,6 +12,8 @@ Varietal: SL28
 
 Process: [K72 Double Washed](https://world.gafei.com/coffee130499.html)
 
+Stock: 400g
+
 Elevation (MASL): 1880-1970
 
 ## Importer Information

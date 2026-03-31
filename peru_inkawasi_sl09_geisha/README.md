@@ -14,6 +14,8 @@ Process: Washed
 
 Elevation (MASL): 2350
 
+Stock: 850g
+
 Lot: \#1
 
 ## Importer Information

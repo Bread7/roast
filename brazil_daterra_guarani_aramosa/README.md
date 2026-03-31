@@ -14,6 +14,8 @@ Process: Natural & Pulped
 
 Elevation (MASL): 1150
 
+Stock: 850g
+
 ## Importer Information
 
 Green Profile: Red Tea, Red Sugar, Dried Fruits, Preservered Plums

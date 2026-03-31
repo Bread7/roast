@@ -14,6 +14,8 @@ Process: Natural Anaerobic Slow Drying 168 Hours
 
 Elevation (MASL): 1600
 
+Stock: 200g
+
 ## Importer Information
 
 Green Profile: Lychee, Red Berries, Grapes, Orange, Pineapple, Complex & Rich

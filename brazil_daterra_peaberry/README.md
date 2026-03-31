@@ -14,6 +14,8 @@ Process: Natural & Pulped
 
 Elevation (MASL): 1149
 
+Stock: 1850g
+
 ## Importer Information
 
 Green Profile: Preserved Plums, Yellow Sugar, Apricot, Roasted Nuts

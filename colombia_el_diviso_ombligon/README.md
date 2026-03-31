@@ -14,6 +14,8 @@ Process: [Anaerobic Natural](https://prestacoffee.com/products/colombia-nestor-l
 
 Elevation (MASL): 1700
 
+Stock: 600g
+
 ## Importer Information
 
 Green Profile: Red Cherry, Grape, Yellow Peach, Liqueur, Blood Orange, Rose 
