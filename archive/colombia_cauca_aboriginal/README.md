@@ -14,7 +14,7 @@ Process: Natural
 
 Elevation (MASL): 1750-2000
 
-Stock: 600g
+Stock: -
 
 ## Importer Information
 
@@ -51,3 +51,27 @@ Weight Loss: 10.7%
 QC2 Profile: apple, strawberry, yoghurt, mulled wine
 
 ![aboriginal](./2/aboriginal.png)
+
+## Roast #3 28/4/2026
+
+Weight Loss: 11.2%
+
+QC2 Profile: -
+
+![aboriginal](./3/aboriginal.png)
+
+## Roast #4 28/4/2026
+
+Weight Loss: 10.8%
+
+QC2 Profile: -
+
+![aboriginal](./4/aboriginal.png)
+
+## Roast #5 28/4/2026
+
+Weight Loss: 10.9%
+
+QC2 Profile:
+
+![aboriginal](./5/aboriginal.png)

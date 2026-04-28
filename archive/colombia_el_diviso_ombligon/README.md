@@ -14,7 +14,7 @@ Process: [Anaerobic Natural](https://prestacoffee.com/products/colombia-nestor-l
 
 Elevation (MASL): 1700
 
-Stock: 600g
+Stock: -
 
 ## Importer Information
 
@@ -45,3 +45,27 @@ Weight Loss: 12.3%
 QC2 Profile: peach, roselle, honey, melon
 
 ![ombligon_2](./2/ombligon.png)
+
+## Roast #3 28/4/2026
+
+Weight Loss: 12.8%
+
+QC2 Profile: -
+
+![ombligon](./3/ombligon.png)
+
+## Roast #4 28/4/2026
+
+Weight Loss: 12.3%
+
+QC2 Profile: -
+
+![ombligon](./4/ombligon.png)
+
+## Roast #5 28/4/2026
+
+Weight Loss: 11.6%
+
+QC2 Profile:
+
+![ombligon](./5/ombligon.png)
