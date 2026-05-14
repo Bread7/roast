@@ -72,6 +72,6 @@ QC2 Profile: -
 
 Weight Loss: 10.9%
 
-QC2 Profile:
+QC3 Profile: strawberry, pomegranate, apple juice
 
 ![aboriginal](./5/aboriginal.png)

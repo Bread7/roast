@@ -14,7 +14,7 @@ Process: Natural & Pulped
 
 Elevation (MASL): 1149
 
-Stock: 1850g
+Stock: 1650g
 
 ## Importer Information
 
@@ -45,3 +45,11 @@ Weight Loss: 9.4%
 QC2 Profile: apple, pu'er tea, roasted hazelnut
 
 ![peaberry](./1/peaberry.png)
+
+## Roast #2 14/5/2026
+
+Weight Loss: 9.4%
+
+QC3 Profile: plum, roasted nuts, blackcurrant
+
+![peaberry](./2/peaberry.png)

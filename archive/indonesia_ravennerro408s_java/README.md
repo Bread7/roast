@@ -14,7 +14,7 @@ Process: Natural Anaerobic Slow Drying 168 Hours
 
 Elevation (MASL): 1600
 
-Stock: 200g
+Stock: -
 
 ## Importer Information
 
@@ -49,3 +49,11 @@ Weight Loss: 10.2%
 QC2 Profile: -
 
 ![java](./2/java.png)
+
+## Roast #3 14/5/2026
+
+Weight Loss: 11.2%
+
+QC3 Profile: pineapple, sparkling wine, dried mango
+
+![java](./3/java.png)

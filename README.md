@@ -49,7 +49,7 @@ Please see [quality control](./qc.md)
 
 #### Characteristics
 
-Fast roasting style that starts with high airflow and gradually decreases over time. This aims to promote brighter and acidity forward outcome. Good for modern light roast approach.
+Fast roasting style that starts with high airflow and gradually decreases over time. This aims to promote brighter and acidity forward outcome. Modern light roast approach.
 
 #### Steps
 
@@ -57,7 +57,7 @@ Fast roasting style that starts with high airflow and gradually decreases over t
 2. Set loft power such that the beans fly slightly higher than the bell
 3. Temp gear to 100 for 45secs
 4. Increase temp gear till target time is reached at 140~150 deg celcius (dry-end phase)
-5. Slow loft power till beans touch only the base of the bell
-6. Hit target temp of 170-175 deg celcius 45secs - 1min before target maillard time (maillard phase)
-7. Continuously adjust loft to control the ROR before hitting 1C
+5. Slight reduce air loft power and temperature gear reduce by 3~5
+6. Hit target temp of 180 degree celcius 1min30secs ~ 1min45secs then slightly reduce air loft again (maillard phase)
+7. Continuously reduce temperature till BT is almost flat (check delta for future reference)
 8. Once target temperature reached, stop the power and drop the beans

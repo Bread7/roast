@@ -14,7 +14,7 @@ Process: Lactic Washed
 
 Elevation (MASL): 1650
 
-Stock: 600g
+Stock: -
 
 ## Importer Information
 
@@ -51,3 +51,27 @@ Weight Loss: 12.5%
 QC2 Profile: grape, lime, flower petals
 
 ![papayo_2](./2/papayo.png)
+
+## Roast #3 14/5/2026
+
+Weight Loss: 12.8%
+
+QC3 Profile: melon, yoghurt, grape kefir
+
+![papayo](./3/papayo.png)
+
+## Roast #4 14/5/2026
+
+Weight Loss: 13.3%
+
+QC3 Profile: -
+
+![papayo](./4/papayo.png)
+
+## Roast #5 14/5/2026
+
+Weight Loss: 13.5%
+
+QC3 Profile: grape, cream, dried pear
+
+![papayo](./5/papayo.png)

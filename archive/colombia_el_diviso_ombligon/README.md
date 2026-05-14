@@ -66,6 +66,6 @@ QC2 Profile: -
 
 Weight Loss: 11.6%
 
-QC2 Profile:
+QC3 Profile: peach, pineapple, pomelo
 
 ![ombligon](./5/ombligon.png)
