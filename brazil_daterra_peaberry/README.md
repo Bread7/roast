@@ -53,3 +53,11 @@ Weight Loss: 9.4%
 QC3 Profile: plum, roasted nuts, blackcurrant
 
 ![peaberry](./2/peaberry.png)
+
+## Roast #3 19/5/2026
+
+Weight Loss: 10.4%
+
+QC3 Profile: roasted nuts, cocoa, stone fruit
+
+![peaberry](./3/peaberry.png)

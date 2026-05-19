@@ -43,3 +43,19 @@ Weight Loss: 8.9%
 QC2 Profile: purple flower, lavendar, grapes
 
 ![elto](./1/elto.png)
+
+## Roast #2 19/5/2026
+
+Weight Loss: 8.7%
+
+QC3 Profile: light florals, pear, fig
+
+![elto](./2/elto.png)
+
+## Roast #3 19/5/2026
+
+Weight Loss: 8.9%
+
+QC3 Profile: purple florals, plums, purple grapes
+
+![elto](./3/elto.png)
