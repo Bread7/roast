@@ -14,7 +14,7 @@ Process: Natural & Pulped
 
 Elevation (MASL): 1149
 
-Stock: 1650g
+Stock: 850g
 
 ## Importer Information
 

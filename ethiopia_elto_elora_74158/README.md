@@ -14,7 +14,7 @@ Process: Cold Fermentation Washed
 
 Elevation (MASL): 2000-2300
 
-Stock: 850g
+Stock: 250g
 
 ## Importer Information
 

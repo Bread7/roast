@@ -14,7 +14,7 @@ Process: Natural
 
 Elevation (MASL): 1400 - 1600
 
-Stock: 800g
+Stock: 250g
 
 ## Importer Information
 
