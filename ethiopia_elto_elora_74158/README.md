@@ -59,3 +59,11 @@ Weight Loss: 8.9%
 QC3 Profile: purple florals, plums, purple grapes
 
 ![elto](./3/elto.png)
+
+## Roast #4 26/5/2026
+
+Weight Loss: 11.1%
+
+QC3 Profile: light florals, fruit juice, plums
+
+![elto](./4/elto.png)
