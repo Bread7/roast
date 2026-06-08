@@ -14,7 +14,7 @@ Process: Natural & Pulped
 
 Elevation (MASL): 1149
 
-Stock: 850g
+Stock: -
 
 ## Importer Information
 
@@ -85,3 +85,35 @@ Weight Loss: 9.5%
 QC3 Profile: raisins, nuts, apple
 
 ![peaberry](./6/peaberry.png)
+
+## Roast #7 8/6/2026
+
+Weight Loss: 9.8%
+
+QC3 Profile: -
+
+![peaberry](./7/peaberry.png)
+
+## Roast #8 8/6/2026
+
+Weight Loss: 10.2%
+
+QC3 Profile: -
+
+![peaberry](./8/peaberry.png)
+
+## Roast #9 8/6/2026
+
+Weight Loss: 10%
+
+QC3 Profile: -
+
+![peaberry](./9/peaberry.png)
+
+## Roast #10 8/6/2026
+
+Weight Loss: 9.6%
+
+QC3 Profile: -
+
+![peaberry](./10/peaberry.png)

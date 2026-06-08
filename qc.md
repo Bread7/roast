@@ -10,6 +10,8 @@ Lagom Casa grind settings: 16.0
 
 Water temperature: 94 degree celcius
 
+Water PPM: 110, filtered water
+
 Cupping bowl: Barista Hustle bowl
 
 ## Cupping Procedure
