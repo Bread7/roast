@@ -14,7 +14,7 @@ Process: 72 Hour Controlled Fermentation Washed
 
 Elevation (MASL): 2200
 
-Stock: 450g
+Stock: 250g
 
 ## Importer Information
 
@@ -59,3 +59,11 @@ Weight Loss: 12.7%
 QC3 Profile: plum, red wine, poached grapes
 
 ![wushwush](./3/wushwush.png)
+
+## Roast #4 23/6/2026
+
+Weight Loss: 13.2%
+
+QC3 Profile: -
+
+![wushwush](./4/wushwush.png)

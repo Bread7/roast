@@ -14,7 +14,7 @@ Process: Cold Fermentation Slow Dry Washed
 
 Elevation (MASL): 1700+
 
-Stock: 800g
+Stock: 400g
 
 Lot: Lino
 
@@ -47,3 +47,19 @@ Weight Loss: 10.5%
 QC3 Profile: florals, tangerine, nectar honey
 
 ![gesha](./1/gesha.png)
+
+## Roast #2 23/6/2026
+
+Weight Loss: 11.5%
+
+QC3 Profile: -
+
+![gesha](./2/gesha.png)
+
+## Roast #3 23/6/2026
+
+Weight Loss: 10.6%
+
+QC3 Profile: -
+
+![gesha](./3/gesha.png)

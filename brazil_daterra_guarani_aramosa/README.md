@@ -14,7 +14,7 @@ Process: Natural & Pulped
 
 Elevation (MASL): 1150
 
-Stock: 850g
+Stock: 450g
 
 ## Importer Information
 
@@ -45,3 +45,19 @@ Weight Loss: 9.1%
 QC2 Profile: grape, red tea, poached pear
 
 ![blossom](./1/blossom.png)
+
+## Roast #2 23/6/2026
+
+Weight Loss: 9.5%
+
+QC3 Profile: -
+
+![blossom](./1/blossom.png)
+
+## Roast #3 23/6/2026
+
+Weight Loss: 9.1%
+
+QC2 Profile: -
+
+![blossom](./3/blossom.png)
