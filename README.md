@@ -1,8 +1,4 @@
-# ~~Calm~~ Coffee Roasting
-
-Landing page for my current coffee roasting progression.
-
-I will try to update the graphs as timely as possible.
+# Lunar Origins
 
 Dubious Sourcing & Unexceptional _Vibe_ Roasts Only.
 
