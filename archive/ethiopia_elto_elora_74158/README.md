@@ -14,7 +14,7 @@ Process: Cold Fermentation Washed
 
 Elevation (MASL): 2000-2300
 
-Stock: 250g
+Stock: -
 
 ## Importer Information
 
@@ -67,3 +67,11 @@ Weight Loss: 11.1%
 QC3 Profile: light florals, fruit juice, plums
 
 ![elto](./4/elto.png)
+
+## Roast #5 31/7/2026
+
+Weight Loss: 11.4%
+
+QC3 Profile: -
+
+![elto](./5/elto.png)

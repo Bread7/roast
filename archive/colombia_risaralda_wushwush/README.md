@@ -14,7 +14,7 @@ Process: 72 Hour Controlled Fermentation Washed
 
 Elevation (MASL): 2200
 
-Stock: 250g
+Stock: -
 
 ## Importer Information
 
@@ -67,3 +67,11 @@ Weight Loss: 13.2%
 QC3 Profile: -
 
 ![wushwush](./4/wushwush.png)
+
+## Roast #5 31/7/2026
+
+Weight Loss: 13.3%
+
+QC3 Profile: -
+
+![wushwush](./5/wushwush.png)

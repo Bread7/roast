@@ -14,7 +14,7 @@ Process: Natural & Pulped
 
 Elevation (MASL): 1150
 
-Stock: 450g
+Stock: -
 
 ## Importer Information
 
@@ -61,3 +61,19 @@ Weight Loss: 9.1%
 QC2 Profile: -
 
 ![blossom](./3/blossom.png)
+
+## Roast #4 31/7/2026
+
+Weight Loss: 9.9%
+
+QC3 Profile: -
+
+![blossom](./4/blossom.png)
+
+## Roast #5 31/7/2026
+
+Weight Loss: 9.5%
+
+QC3 Profile: -
+
+![blossom](./5/blossom.png)

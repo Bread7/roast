@@ -14,7 +14,7 @@ Process: Natural
 
 Elevation (MASL): 1400 - 1600
 
-Stock: 250g
+Stock: -
 
 ## Importer Information
 
@@ -43,3 +43,11 @@ Weight Loss: 11.6%
 QC3 Profile: jasmine, honey, mulberry
 
 ![gesha](./1/gesha.png)
+
+## Roast #2 31/7/2026
+
+Weight Loss: 12.7%
+
+QC3 Profile: -
+
+![gesha](./2/gesha.png)
