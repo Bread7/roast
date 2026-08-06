@@ -14,7 +14,7 @@ Process: Washed
 
 Elevation (MASL): 2350
 
-Stock: 850g
+Stock: 650g
 
 Lot: \#1
 
@@ -45,3 +45,11 @@ Weight Loss: 10.1%
 QC2 Profile: lemon tea, white florals, honey
 
 ![sl09](./1/sl09.png)
+
+## Roast #2 6/8/2026
+
+Weight Loss: 11.5%
+
+QC3 Profile: bright lemon, jasmine, pear
+
+![sl09](./2/sl09.png)
