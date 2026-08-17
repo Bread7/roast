@@ -14,7 +14,7 @@ Process: Natural
 
 Elevation (MASL): 1700 - 2000
 
-Stock: 150g
+Stock: -
 
 ## Importer Information
 
@@ -45,3 +45,11 @@ Weight Loss: 10.1%
 QC3 Profile: melon, honey, pear
 
 ![marshell](./1/marshell.png)
+
+## Roast #2 17/8/2026
+
+Weight Loss: 12.5%
+
+QC3 Profile: pomegranate, lemongrass, sugarcane
+
+![marshell](./2/marshell.png)

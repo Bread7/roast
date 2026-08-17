@@ -12,7 +12,7 @@ Varietal: SL28
 
 Process: [K72 Double Washed](https://world.gafei.com/coffee130499.html)
 
-Stock: 200g
+Stock: -
 
 Elevation (MASL): 1880-1970
 
@@ -67,3 +67,11 @@ Weight Loss: 10.5%
 QC3 Profile: cranberries, kiwi, cherry tomatoes
 
 ![sl28](./4/sl28.png)
+
+## Roast #5 17/8/2026
+
+Weight Loss: 12.1%
+
+QC3 Profile: red fruits, bright, clean
+
+![sl28](./5/sl28.png)

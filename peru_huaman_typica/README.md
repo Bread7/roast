@@ -14,7 +14,7 @@ Process: Washed
 
 Elevation (MASL): 2050
 
-Stock: 800g
+Stock: 400g
 
 ## Importer Information
 
@@ -44,21 +44,21 @@ QC3 Profile:
 
 ![typica](./1/typica.png)
 
-## Roast #2 x/x/2026
+## Roast #2 17/8/2026
 
-Weight Loss: %
+Weight Loss: 10.5%
 
-QC3 Profile:
+QC3 Profile: -
 
-![]()
+![typica](./2/typica.png)
 
-## Roast #3 x/x/2026
+## Roast #3 17/8/2026
 
-Weight Loss: %
+Weight Loss: 11%
 
-QC3 Profile:
+QC3 Profile: -
 
-![]()
+![typica](./3/typica.png)
 
 ## Roast #4 x/x/2026
 
@@ -66,7 +66,7 @@ Weight Loss: %
 
 QC3 Profile:
 
-![]()
+![typica](./4/typica.png)
 
 ## Roast #5 x/x/2026
 
@@ -74,4 +74,4 @@ Weight Loss: %
 
 QC3 Profile:
 
-![]()
+![typica](./5/typica.png)

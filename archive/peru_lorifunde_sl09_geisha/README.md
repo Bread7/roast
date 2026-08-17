@@ -14,6 +14,8 @@ Process: Washed
 
 Elevation (MASL): 2296
 
+Stock: -
+
 ## Importer Information
 
 Green Profile: Jasmine, Mango, Peach, Loquat, Black Tea
@@ -39,3 +41,11 @@ Weight Loss: 10.1%
 QC2 Profile: white florals, mango, dragonfruit
 
 ![sl09](./1/sl09.png)
+
+## Roast #2 17/8/2026
+
+Weight Loss: 10.9%
+
+QC3 Profile: citrus, purple florals, green apple
+
+![sl09](./2/sl09.png)
