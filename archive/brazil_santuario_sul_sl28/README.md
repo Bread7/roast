@@ -12,7 +12,7 @@ Varietal: SL28
 
 Process: Honey
 
-Stock: 500g
+Stock: -
 
 Elevation (MASL): 1300
 
@@ -52,18 +52,18 @@ QC3 Profile: chocolate, lightly toasted nuts, orange zest
 
 ![sl28](./2/sl28.png)
 
-## Roast #3 x/x/2026
+## Roast #3 13/8/2026
 
-Weight Loss: %
+Weight Loss: 12.2%
 
-QC3 Profile:
+QC3 Profile: -
 
 ![sl28](./3/sl28.png)
 
-## Roast #4 x/x/2026
+## Roast #4 13/8/2026
 
-Weight Loss: %
+Weight Loss: 11.9%
 
-QC3 Profile:
+QC3 Profile: mixed berries, soft chocolate, smooth body
 
 ![sl28](./4/sl28.png)

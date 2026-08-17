@@ -12,7 +12,7 @@ Varietal: SL28, SL34
 
 Process: Fully Washed
 
-Stock: 500g
+Stock: -
 
 Elevation (MASL): 1700-1800
 
@@ -52,18 +52,18 @@ QC3 Profile: -
 
 ![kamunyaka](./2/kamunyaka.png)
 
-## Roast #3 x/x/2026
+## Roast #3 13/8/2026
 
-Weight Loss: %
+Weight Loss: 11.2%
 
-QC3 Profile:
+QC3 Profile: -
 
 ![kamunyaka](./2/kamunyaka.png)
 
-## Roast #4 x/x/2026
+## Roast #4 13/8/2026
 
-Weight Loss: %
+Weight Loss: 10.8%
 
-QC3 Profile:
+QC3 Profile: oranges, chocolate, light citrus
 
 ![kamunyaka](./4/kamunyaka.png)

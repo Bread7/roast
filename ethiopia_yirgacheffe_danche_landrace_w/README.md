@@ -1,0 +1,77 @@
+# Ethiopia Danche Haru Chelbesa Gedeb Yirgacheffe Landrace Washed
+
+Origin: Ethiopia
+
+Region: Yirgacheffe
+
+Farm / Station: Danche Haru
+
+Producers: Smallholders
+
+Varietal: Ethiopian Landrace
+
+Process: Washed
+
+Elevation (MASL): 2250-2350
+
+Stock: 800g
+
+## Importer Information
+
+Green Profile:
+
+Moisture: -%
+
+Density: -g/L
+
+Season Year: 2026
+
+Pricing Transparency (SGD):
+
+    - Green Price: $54.75/KG
+    - 9% GST: -
+    - Shipping: -
+
+Importer: [QO Coffee](https://shop326667862.m.taobao.com)
+
+---
+
+## Roast #1 13/8/2026
+
+Weight Loss: 10.5%
+
+QC3 Profile: florals, honey, peach, kiwi
+
+![landrace](./1/landrace.png)
+
+## Roast #2 x/x/2026
+
+Weight Loss: %
+
+QC3 Profile:
+
+![]()
+
+## Roast #3 x/x/2026
+
+Weight Loss: %
+
+QC3 Profile:
+
+![]()
+
+## Roast #4 x/x/2026
+
+Weight Loss: %
+
+QC3 Profile:
+
+![]()
+
+## Roast #5 x/x/2026
+
+Weight Loss: %
+
+QC3 Profile:
+
+![]()
