@@ -44,13 +44,13 @@ QC3 Profile: apples, purple grapes, white florals
 
 ![landrace](./1/landrace.png)
 
-## Roast #2 x/x/2026
+## Roast #2 7/9/2026
 
-Weight Loss: %
+Weight Loss: 13.7%
 
-QC3 Profile:
+QC3 Profile: plums, cherry, black tea
 
-![]()
+![landrace](./2/landrace.png)
 
 ## Roast #3 x/x/2026
 

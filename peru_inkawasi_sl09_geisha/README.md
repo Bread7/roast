@@ -53,3 +53,11 @@ Weight Loss: 11.5%
 QC3 Profile: bright lemon, jasmine, pear
 
 ![sl09](./2/sl09.png)
+
+## Roast #3 7/9/2026
+
+Weight Loss: 11.2%
+
+QC3 Profile: jasmine, citrus, melon
+
+![sl09](./2/sl09.png)
