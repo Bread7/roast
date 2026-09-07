@@ -1,6 +1,6 @@
 # Lunar Origins
 
-![Lunar](./lunar-dark2.png)
+<img src="./lunar-dark2.png" width="480" height="480">
 
 Dubious Sourcing & Unexceptional _Vibe_ Roasts Only.
 
