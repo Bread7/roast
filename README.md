@@ -1,5 +1,7 @@
 # Lunar Origins
 
+![Lunar](./lunar-dark2.png)
+
 Dubious Sourcing & Unexceptional _Vibe_ Roasts Only.
 
 Coffee not in [archive](./archive/) means its available and in stock.
