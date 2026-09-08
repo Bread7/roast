@@ -1,6 +1,6 @@
 # Roasting Style(s)
 
-## Baseline / Benchmark / Generic
+## Baseline / Benchmark / Generic (Not in use)
 
 ### Characteristics
 
@@ -21,7 +21,7 @@ Fast roasting style that starts with high airflow and gradually decreases over t
 
 ### Characteristics
 
-Retains acidity without resulting in more sharpness.
+Retains acidity in a rounded manner.
 
 ### Steps
 
@@ -32,3 +32,9 @@ Retains acidity without resulting in more sharpness.
 5. When BT is at 177 deg celcius, ramp up temp gear by 3~5
 6. Hit 180 deg celcius at desired maillard time (maillard phase)
 7. When FC is marked, lower temp gear by 3~5 and develop with minimal to no temperature increase till desired time (development phase)
+
+## Long Dry End, Low Airflow and Slight Stalling in Maillard and Development Phase
+
+### Characteristics
+
+Similar to the second roast but momentarily stalling reduces heat momentum to allow for longer development to create more structured roast without increasing weight loss. Identical concept to double roasting.
