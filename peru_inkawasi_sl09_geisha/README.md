@@ -60,4 +60,4 @@ Weight Loss: 11.2%
 
 QC3 Profile: jasmine, citrus, melon
 
-![sl09](./2/sl09.png)
+![sl09](./3/sl09.png)
