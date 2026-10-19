@@ -14,7 +14,7 @@ Process: Natural Slow Dry
 
 Elevation (MASL): 2300+
 
-Stock: 800g
+Stock: 200g
 
 ## Importer Information
 
@@ -52,21 +52,21 @@ QC3 Profile: plums, cherry, black tea
 
 ![landrace](./2/landrace.png)
 
-## Roast #3 x/x/2026
+## Roast #3 19/10/2026
 
-Weight Loss: %
+Weight Loss: 13.2%
 
-QC3 Profile:
+QC3 Profile: -
 
-![]()
+![landrace](./3/landrace.png)
 
-## Roast #4 x/x/2026
+## Roast #4 19/10/2026
 
-Weight Loss: %
+Weight Loss: 12.3%
 
-QC3 Profile:
+QC3 Profile: -
 
-![]()
+![landrace](./4/landrace.png)
 
 ## Roast #5 x/x/2026
 

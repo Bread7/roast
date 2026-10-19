@@ -14,7 +14,7 @@ Process: Natural
 
 Elevation (MASL): 2410
 
-Stock: 800g
+Stock: 400g
 
 ## Importer Information
 
@@ -44,21 +44,21 @@ QC3 Profile: grapes, lychee, fruit candy
 
 ![74158](./1/74158.png)
 
-## Roast #2 x/x/2026
+## Roast #2 19/10/2026
 
-Weight Loss: %
+Weight Loss: 11.1%
+
+QC3 Profile: -
+
+![74158](./2/74158.png)
+
+## Roast #3 19/10/2026
+
+Weight Loss: 10.5%
 
 QC3 Profile:
 
-![]()
-
-## Roast #3 x/x/2026
-
-Weight Loss: %
-
-QC3 Profile:
-
-![]()
+![74158](./3/74158.png)
 
 ## Roast #4 x/x/2026
 
