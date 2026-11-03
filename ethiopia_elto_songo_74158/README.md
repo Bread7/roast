@@ -44,21 +44,21 @@ QC3 Profile: lemon, pear, tangy citrus
 
 ![elto](./1/elto.png)
 
-## Roast #2 x/x/2026
+## Roast #2 3/11/2026
 
-Weight Loss: %
+Weight Loss: 12%
 
-QC3 Profile:
+QC3 Profile: -
 
-![]()
+![elto](./2/elto.png)
 
-## Roast #3 x/x/2026
+## Roast #3 3/11/2026
 
-Weight Loss: %
+Weight Loss: 11.8%
 
-QC3 Profile:
+QC3 Profile: -
 
-![]()
+![elto](./3/elto.png)
 
 ## Roast #4 x/x/2026
 

@@ -68,10 +68,10 @@ QC3 Profile: -
 
 ![landrace](./4/landrace.png)
 
-## Roast #5 x/x/2026
+## Roast #5 3/11/2026
 
-Weight Loss: %
+Weight Loss: 13.3%
 
-QC3 Profile:
+QC3 Profile: -
 
-![]()
+![landrace](./5/landrace.png)
